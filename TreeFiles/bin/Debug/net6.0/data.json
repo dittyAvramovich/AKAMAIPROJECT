@@ -1,0 +1,64 @@
+[
+  {
+    "name": "ng-web-security-analytics",
+    "files": [
+      ".browserslistrc",
+      ".editorconfig",
+      ".gitignore",
+      ".npmrc",
+      ".versionconfig",
+      "README.md",
+      "angular.json",
+      "karma.conf.js",
+      "package.json",
+      "tree",
+      "tsconfig.app.json",
+      "tsconfig.json",
+      "tsconfig.spec.json",
+      "tslint.json",
+      "yarn.lock"
+    ],
+    "directories": [
+      {
+        "name": "src",
+        "files": [
+          "ag-grid-license.ts",
+          "favicon.ico",
+          "index.html",
+          "main.ts",
+          "manifest.json",
+          "polyfills.ts",
+          "sql",
+          "sql.template",
+          "styles.scss",
+          "template.html",
+          "test.ts"
+        ],
+        "directories": [
+          {
+            "name": "app",
+            "files": [
+              "app.component.html",
+              "app.component.scss",
+              "app.component.spec.ts",
+              "app.component.ts",
+              "app.module.ts",
+              "auto.ts",
+              "ng-zorro-antd.module.ts"
+            ],
+            "directories": [
+
+              {
+                "name": "components",
+                "files": [ "components.ts" ],
+                "directories": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+
+
+  }
+]
